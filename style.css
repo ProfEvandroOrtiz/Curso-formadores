@@ -1,0 +1,57 @@
+.logo{
+    width: 30%;
+}
+.cabeçalho{
+background-color: #383D58;
+li{color: black;}
+li1{color: black;}
+color: white;
+display: flex;
+width: 100%;
+height: 0%;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+.Item-escola{
+display: block;
+margin: 0 16px;
+font-size: 24px;
+}
+.Item-estudante{
+    display: block;
+    margin: 0 16px;
+    font-size: 24px;
+
+}
+.lista {
+display: inline-block;
+margin: 0px 16px;
+padding: 0 16px;
+font-size: 24px;}
+*{
+    margin: 0;
+    padding: 0;
+}
+.escola-image {
+    width: 25%;
+}
+.escola {
+    background-image: linear-gradient(#383D58, #4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteúdo{
+width: 35%;
+
+}
+.escola-título{
+    padding: 24px 0;
+}
+
+.escola-texto-um{
+    padding: 24px 0;
+}
