@@ -1,6 +1,9 @@
 .logo{
     width: 30%;
 }
+
+body{font-family: "Poppins"; sans-serif}
+
 .cabeçalho{
 background-color: #383D58;
 li{color: black;}
@@ -45,13 +48,48 @@ font-size: 24px;}
     padding: 24px 0;
 }
 .escola-div-conteúdo{
+text-align: justify;
 width: 35%;
 
 }
 .escola-título{
-    padding: 24px 0;
+    padding: 16px 0;
 }
 
 .escola-texto-um{
     padding: 24px 0;
+}
+.estudante-imagem {
+    width: 120px;
+    border-radius: 20%;
+    border-style: groove;
+    border-color: yellow;
+    }
+.estudante-icone {
+    width: 24px;
+    padding: 4px 8px;
+    border-radius: 20%;
+    background-image: linear-gradient(white,yellow);
+}
+.estudante {
+    padding: 24px 0;
+    text-align: center;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
+.estudante-div{
+    text-align: center;
+    padding: 30px 0;
+
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 15% 15% 15% 15% 15% 15%;
+   
+}
+.estudante{
+    background-color: #4EBFE9;
 }
