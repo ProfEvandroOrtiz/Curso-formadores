@@ -93,3 +93,23 @@ width: 35%;
 .estudante{
     background-color: #4EBFE9;
 }
+.rodapé{
+    background-color: black;
+    text-align: center;
+}
+.rodapé-imagem{
+    color: white;
+    height: 60px;
+    padding: 12px 0;
+}
+.imagem-localização {
+    height: 60px;
+    padding: 0 0;
+    background-color: white;
+   
+}
+.endereço-localização {
+color: white;
+}
+.div-rodapé{
+    padding: 0 10%;}
